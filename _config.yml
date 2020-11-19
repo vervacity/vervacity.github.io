@@ -29,8 +29,17 @@ github_username:  vervacity
 
 # Build settings
 theme: minima
+#theme: minimal-mistakes-jekyll
+show_excerpts: true
 plugins:
   - jekyll-feed
+header_pages:
+  - posts.markdown
+  - papers.markdown
+  - projects.markdown
+  - tutorials.markdown
+  - genomics.markdown
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

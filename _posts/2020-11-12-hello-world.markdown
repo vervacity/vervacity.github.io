@@ -3,6 +3,7 @@ layout: post
 title:  "hello world"
 date:   2020-11-12 20:06:46 -0800
 categories: tutorial
+excerpt_separator: <!--more-->
 ---
 
 Today let's talk about how to set up a github-pages website. I did not find it as straightforward as I might have hoped, so am leaving my notes here in case it helps someone else down the line.
